@@ -1,2 +1,2 @@
-# deezybot
-The (somewhat filtered and rinsed down) source code for my stupid discord bot Deezy!
+# bot
+yes this is my bot or something
